@@ -5,6 +5,12 @@
 <p><b>비즈니스와 마케팅적 시각으로 사용자 경험을 최적화하여 개발하는 AI 엔지니어입니다.</b></p>
 
 <p>
+  <a href="https://chikery-pi.vercel.app">
+    <img src="https://img.shields.io/badge/🔗%20Live-chikery--pi.vercel.app-000000?style=flat-square" alt="Live Site">
+  </a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" alt="TypeScript">
