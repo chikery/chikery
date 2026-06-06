@@ -40,7 +40,7 @@ export default function Hero() {
           className="section-label animate-fade-up"
           style={{ opacity: 0, marginBottom: "20px" }}
         >
-          AI Engineer &amp; Creative
+          AI Engineer
         </p>
 
         <h1
@@ -79,9 +79,9 @@ export default function Hero() {
             lineHeight: 1.8,
           }}
         >
-          사진학과에서 시작한 시각적 감수성,
+          비즈니스와 마케팅적 시각으로
           <br />
-          AI 기술로 확장하는 창의적 경계.
+          사용자 경험을 최적화하여 개발하는 AI 엔지니어입니다.
         </p>
 
         <div

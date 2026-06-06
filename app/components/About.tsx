@@ -29,12 +29,11 @@ export default function About() {
               marginBottom: "0",
             }}
           >
-            예술과 AI가
+            분석에서 그치지 않고
             <br />
-            <span style={{ color: "var(--accent)" }}>만나는 지점</span>
-            에서
+            <span style={{ color: "var(--accent)" }}>실제 사업이</span>
             <br />
-            일합니다.
+            굴러가게 만듭니다.
           </h2>
         </div>
 
@@ -48,9 +47,9 @@ export default function About() {
               marginBottom: "20px",
             }}
           >
-            중앙대학교 사진학과에서 시각적 사고와 스토리텔링을 익혔습니다.
-            졸업 후 AI 엔지니어링으로 전환하며, 창의적 감수성과 기술을
-            결합하는 일을 해왔습니다.
+            AI로 인재 매칭을 고도화하고, 운영의 빈틈을 데이터로 메우는
+            실행형 기획자입니다. 팀이 방향을 잃을 때 가장 먼저 구조를
+            그려왔습니다.
           </p>
           <p
             style={{
@@ -59,8 +58,10 @@ export default function About() {
               lineHeight: 1.9,
             }}
           >
-            AI 에이전트 개발부터 CRM 메시지 자동화, 그로스마케팅, 예술 분야
-            창업까지 — 경계를 가로지르는 것이 저의 강점입니다.
+            아모레퍼시픽 챌린지에서 6인 팀장으로 AARRR × 페르소나
+            의사결정 구조를 직접 설계했고, NLP 분류 모델에서는 목표 F1을
+            22%p 초과했으며, 마케팅 캠페인에서는 목표 노출을 228%
+            달성했습니다.
           </p>
 
           <div
@@ -71,7 +72,7 @@ export default function About() {
               marginTop: "32px",
             }}
           >
-            {["사진학", "AI Engineering", "Growth Marketing", "Art Business"].map(
+            {["AI Engineering", "NLP · RAG", "Growth Marketing", "PM · 기획"].map(
               (item) => (
                 <span key={item} className="tag">
                   {item}

@@ -1,19 +1,19 @@
 const groups = [
   {
-    label: "AI / Engineering",
-    items: ["Python", "LLM APIs", "Prompt Engineering", "AI Agent", "LangChain", "RAG"],
+    label: "AI · NLP",
+    items: ["PyTorch", "HuggingFace Transformers", "PEFT/LoRA", "DPO", "RAG", "FAISS", "LangChain", "Pydantic", "Prompt Engineering"],
   },
   {
-    label: "Marketing & Growth",
-    items: ["Growth Hacking", "퍼널 분석", "A/B Testing", "CRM 자동화", "데이터 분석"],
+    label: "Backend · Infra",
+    items: ["Python", "FastAPI", "PostgreSQL", "Docker", "JWT", "Cloudflare Tunnel", "Prometheus", "Grafana", "Sentry"],
   },
   {
-    label: "Creative",
-    items: ["사진 / Photography", "Visual Storytelling", "브랜딩", "Art Direction"],
+    label: "Marketing · Analytics",
+    items: ["Meta Ads", "GA4", "GTM", "Looker Studio", "A/B Test", "W&B", "SQL"],
   },
   {
-    label: "Business",
-    items: ["예술 창업", "Art Business", "사업 기획", "MVP 설계"],
+    label: "자격증 · 어학",
+    items: ["OPIc AL", "ADsP", "GAIQ"],
   },
 ];
 

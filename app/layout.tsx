@@ -15,13 +15,13 @@ const notoSansKR = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: "조윤서 Jay Cho — AI Engineer & Creative",
+  title: "조윤서 — AI Engineer",
   description:
-    "사진학과 출신 AI 엔지니어. 예술적 감성과 기술을 연결하는 창작자입니다.",
+    "비즈니스와 마케팅적 시각으로 사용자 경험을 최적화하여 개발하는 AI 엔지니어입니다.",
   openGraph: {
-    title: "조윤서 Jay Cho — AI Engineer & Creative",
+    title: "조윤서 — AI Engineer",
     description:
-      "사진학과 출신 AI 엔지니어. 예술적 감성과 기술을 연결합니다.",
+      "비즈니스와 마케팅적 시각으로 사용자 경험을 최적화하여 개발하는 AI 엔지니어입니다.",
     type: "website",
   },
 };

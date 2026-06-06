@@ -1,20 +1,20 @@
 const awards = [
   {
     icon: "🏆",
-    title: "아모레퍼시픽 AI 챌린지 특별상",
-    subtitle: "Amorepacific AI Challenge · Special Award",
-    year: "2024",
+    title: "아모레퍼시픽 AI Innovation Challenge 특별상",
+    subtitle: "Amorepacific AI Innovation Challenge 2026 · Special Award",
+    year: "2026",
     description:
-      "AI 에이전트를 활용한 CRM 메시지 자동화 생성 솔루션으로 특별상 수상. LLM 기반 개인화 메시지 생성 파이프라인을 설계하고 구현.",
+      "6인 팀장으로 AARRR × 페르소나 의사결정 구조 직접 설계. Qwen2.5-1.5B + EXAONE-4.0-1.2B 이원화 멀티 에이전트 파이프라인 구현. DPO + LoRA 파인튜닝으로 페르소나 유출·한영 혼용 문제 해결. 처리 시간 50% 단축 (39초→19초).",
     highlight: true,
   },
   {
     icon: "🎖",
-    title: "창업경진대회 본선 진출",
-    subtitle: "예술경영지원센터 아트비즈니스챌린지 수료",
-    year: "2024",
+    title: "아트비즈니스 챌린지 상위 50% 선정",
+    subtitle: "예술경영지원센터",
+    year: "2025",
     description:
-      "예술경영지원센터 주관 아트비즈니스챌린지 과정을 수료하고, 창업경진대회 본선에 진출. 예술과 비즈니스를 연결하는 사업 모델을 제안.",
+      "창업 아이디어 검증부터 시장 조사·SWOT 분석·A/B 테스트·로드맵 설계 등 스타트업 기획 전 과정 수행. 투자자 대상 IR 피칭 시연으로 상위 50% 팀 선정.",
     highlight: false,
   },
 ];
